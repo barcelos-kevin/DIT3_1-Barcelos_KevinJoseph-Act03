@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">ProfileUI</string>
+    <string name="username">Kevin Barcelos</string>
+    <string name="email">kevinbarcelos@gmail.com</string>
+    <string name="phone">09XX XXX XXX</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="label">    Email</string>
+    <string name="profile_picture_desc">Profile Picture</string>
+    <string name="contact">Contact</string>
+    <string name="description">Description</string>
+    <string name="hi">Hi I\'m Kevin. I am a learning about mobile development in Pup Taguig.</string>
+    <string name="button">Edit Button</string>
+    <string name="desc">Email icon\n</string>
+    <string name="contact_icon">phone icon\n\t\t\t</string>
+    <string name="comment_icon">comment_icon</string>
+    <string name="phonceicon">phone icon</string>
+    <color name="green" >#e5dfda</color>
+
 </resources>
